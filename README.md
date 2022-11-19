@@ -9,3 +9,4 @@ May include some extraneous scripts and models I was playing around with or test
 
 Examples of generated terrain (using default Unity camera model Ethan):
 
+![undaunted terraine example screenshot](undauntedterrain.jpg)
