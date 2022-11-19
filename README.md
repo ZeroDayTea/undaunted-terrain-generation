@@ -5,5 +5,7 @@ Can be modified to do more high-poly/low-poly terrain and currently implements a
 
 Inspired by videos from (Sebastian Lague)[https://www.youtube.com/c/SebastianLague/featured]
 
+May include some extraneous scripts and models I was playing around with or testing
+
 Examples of generated terrain (using default Unity camera model Ethan):
 
