@@ -3,7 +3,7 @@ Multilayer Perlin Noise + Marching Cubes implementation that generates polygonal
 
 Can be modified to do more high-poly/low-poly terrain and currently implements all necessary algorithms using HLSL shader code to run the computations simultaneously on the GPU. Includes scripts for placing trees or other terrain features pseudorandomly as well as shader code for a day/night cycle.
 
-Inspired by videos from (Sebastian Lague)[https://www.youtube.com/c/SebastianLague/featured]
+Inspired by videos from [Sebastian Lague](https://www.youtube.com/c/SebastianLague/featured)
 
 May include some extraneous scripts and models I was playing around with or testing
 
